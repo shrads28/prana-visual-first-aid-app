@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Prana</string>
+    <string name="home_title">How can I help you today?</string>
+    <string name="home_subtitle">Choose an option below or tap the Emergency button.</string>
+</resources>
